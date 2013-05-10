@@ -1,4 +1,4 @@
-Part Name - IMA Part-123 Not a Part345 Breakout
+GPS Breakout
 ========================================
 
 [![GPS Breakout](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/8/1/8/11818-01.jpg)  
