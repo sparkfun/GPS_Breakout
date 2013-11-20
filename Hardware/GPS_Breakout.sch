@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -6256,16 +6256,17 @@ Various fiducial points for machine vision alignment.</description>
 <sheets>
 <sheet>
 <plain>
-<text x="172.72" y="7.62" size="1.778" layer="91">J. Bartlett</text>
+<text x="172.72" y="7.62" size="2.54" layer="97">J. Bartlett</text>
+<text x="238.76" y="5.08" size="2.54" layer="94">v10</text>
 </plain>
 <instances>
-<instance part="JP4" gate="G$1" x="83.82" y="5.08"/>
-<instance part="JP6" gate="G$1" x="88.9" y="5.08"/>
-<instance part="JP7" gate="G$1" x="114.3" y="5.08"/>
+<instance part="JP4" gate="G$1" x="246.38" y="30.48"/>
+<instance part="JP6" gate="G$1" x="241.3" y="30.48"/>
+<instance part="JP7" gate="G$1" x="241.3" y="22.86"/>
 <instance part="U1" gate="G$1" x="76.2" y="101.6" rot="R180"/>
 <instance part="JP1" gate="G$1" x="111.76" y="104.14" rot="R180"/>
 <instance part="LOGO1" gate="G$1" x="134.62" y="10.16"/>
-<instance part="JP2" gate="G$1" x="101.6" y="5.08"/>
+<instance part="JP2" gate="G$1" x="241.3" y="15.24"/>
 <instance part="FRAME2" gate="G$1" x="0" y="-2.54"/>
 <instance part="FRAME2" gate="G$2" x="147.32" y="-2.54"/>
 <instance part="FID1" gate="G$1" x="233.68" y="30.48"/>
